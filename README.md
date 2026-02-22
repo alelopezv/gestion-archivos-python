@@ -32,5 +32,7 @@ El objetivo principal es demostrar el uso estructurado de funciones y módulos e
 - gestion_archivo.py → Funciones para renombrar y mover archivos
 
 ## ▶Cómo ejecutar
-Ejecutar el archivo:
-- Escribir "python main.py" en la ventana de comandos.
+Desde la carpeta del proyecto:
+
+```bash
+python main.py
